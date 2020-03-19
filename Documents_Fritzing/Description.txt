@@ -1,0 +1,17 @@
+Projet Voitures_DHT11
+
+Description:	Ce projet me permet d'obtenir un Thermomètre numerique dans ma voiture qui est ancienne. 
+En ce moment je fais en sorte de moderniser ma vieille voiture.
+En soit ce petit projet arduino est utilisable partout mais mon pretexte pour la réalisation de ce projet est son intégration dans mon véhicule âgé.
+Cela me permet de coder dans un language que je n'ai pas l'habitude d'utiliser; d'avoir l'ocasion de concevoir un PCB sur logiciel et de le réaliser par la suite.
+Et pour finir, d'en faire un produit final utilisable par la conception et realisation d'un chassis imprimé par une Imprimante 3D. 
+
+---
+Fichier Joint:
+Description,
+Liste de composant, 
+PDF Assemblage,
+Documents Fritzing (2),
+Code Source(1),
+Photo (3),
+-->Modèle 3D (0)<--.
